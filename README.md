@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Jain</h1>
-<h3 align="center">Pursuing Computer Engineering at Delhi Technological University.</h3>
-<h3 align="center">Full Stack Web Developer</h3>
+<br>
 
+- Pursuing Bachelor's degree Computer Engineering from Delhi Technological University
+- Full Stack Web Developer
+- Know about my experience  <a href="http://www.google.com"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="22.5"></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akshat-jain-139175197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshat-jain-139175197" height="30" width="40" /></a>
