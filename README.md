@@ -40,7 +40,7 @@
 #### Version Control:
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;&nbsp;
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;&nbsp;
-[![@aj1458's Holopin board](https://holopin.me/aj1458)](https://holopin.io/@aj1458)
+
 ## 📈Github Stats:
 <div align="center">
   <img width="400" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshat1458&show_icons=true&locale=en&layout=compact&theme=radical" alt="akshat1458" />&nbsp;&nbsp;&nbsp;&nbsp;
